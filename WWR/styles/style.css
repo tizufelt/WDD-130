@@ -1,3 +1,8 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Asap+Condensed&family=Happy+Monkey&family=Rock+Salt&display=swap');
+
+h1, h2, h3, h4 {font-family: 'Rock Salt', cursive;}
+p {font-family: 'Happy Monkey', Arial, Helvetica, sans-serif}
 #content {
     max-width: 1600px;
     margin: 0 auto;
@@ -17,12 +22,14 @@
 
 nav a{
     text-align: center;
-    color:#1EA896;
     text-decoration: none;
+    padding: 35px;
+    color: whitesmoke;
 }
 
 #hero-msg h1, #hero-msg h4{
     text-align: center;
+    
 }
 
 .button-box{
@@ -30,49 +37,84 @@ nav a{
 }
 
 main section{
-    text-align:center;
+    text-align: center;
+    padding: 20px;
+}
+section{
+    margin: 3em 0 3em 0;
 }
 
 #background{
     height: 725px;
-    background-color: #FF715B;
+    background-color: #4C5454;
 }
 
 body {
     background-color: whitesmoke;
+    padding: 0;
+    margin: 0;
 }
 
 header {
-    background-color: #FF715B;
+    background-color: #4C5454;
+    color: whitesmoke;
+    padding: 1em
 }
 
 nav a:hover{
     background-color:white;
-    color: #1EA896;
+    color: black;
 }
 
 .book, .join{
     background-color:#1EA896
     color: #191919;
     text-decoration: none;
+    padding: 15px 30px;
+    margin-top: 50px;
+    border-radius: 5px;
+
+
 }
 
+.book, .join{
+    background-color:navy;
+    color:whitesmoke;
+}
 .book:hover, .join:hover{
-    background-color:beige;
-    color:#1EA896;
+    background-color:whitesmoke;
+    color:navy;
+    border: 2px solid navy;
 }
-
 .msg{
     background-color:#99DDFF;
+    line-height: 1.5em;
 }
 
 footer{
     background-color:white;
-    color:#00b4d8;
+    color:#4C5454;
+    padding: 25px 50px;
+    background-color: beige;
 }
 
 .home-title{
     color:#064789;
+    font-size: 2em;
+    margin-top: 10px;
+}
+
+.rivers-card{
+    margin: 200px 0; 
+
+}
+
+.camping-card{
+    margin: 200px 0;
+}
+
+.rapids-card{
+    margin: 200px 0;
 }
 
 h4{
@@ -81,14 +123,36 @@ h4{
 
 .msg h2{
     color:#064789;
+    margin: 0;
 }
 
 .msg p{
     color:#064789;
+    padding-bottom: 15px;
 }
 
 footer p{
     font-size:1.2em;
+}
+
+.social img{
+    padding-top: 15px; 
+}
+
+.card-img{
+    border: 10px black solid;
+
+}
+
+.mountains{
+    box-sizing: border-box;
+    margin-top: 3em;
+    margin-bottom: 3em;
+
+}
+
+.icon{
+    padding-top: 10px;
 }
 
 footer p a:hover{
@@ -96,8 +160,9 @@ footer p a:hover{
 }
 
 footer a{
-   color: #239faa;
+   color: #4C5454;;
    text-decoration: none;
+   margin-top: 200px;
 }
 
 footer a:hover{
