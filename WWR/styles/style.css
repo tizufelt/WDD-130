@@ -1,7 +1,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Asap+Condensed&family=Happy+Monkey&family=Rock+Salt&display=swap');
 
-h1, h2, h3, h4 {font-family: 'Rock Salt', cursive;}
+h1, h2, h3, h4 {font-family: 'Rock Salt', Arial, Helvetica, sans-serif;}
 p {font-family: 'Happy Monkey', Arial, Helvetica, sans-serif}
 #content {
     max-width: 1600px;
@@ -66,20 +66,15 @@ nav a:hover{
     color: black;
 }
 
-.book, .join{
-    background-color:#1EA896
-    color: #191919;
-    text-decoration: none;
-    padding: 15px 30px;
-    margin-top: 50px;
-    border-radius: 5px;
-
-
-}
 
 .book, .join{
     background-color:navy;
     color:whitesmoke;
+    text-decoration: none;
+    margin-top: 50px;
+    border-radius: 5px;
+    padding: 15px 30px;
+
 }
 .book:hover, .join:hover{
     background-color:whitesmoke;
