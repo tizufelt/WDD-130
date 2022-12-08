@@ -9,8 +9,8 @@ p {font-family: 'Happy Monkey', Arial, Helvetica, sans-serif;
 }
 
 
-.body {
-    background-color: whitesmoke;
+body {
+    background-color:#F0F2EF;
     padding: 0;
     margin: 0;
 }
@@ -67,6 +67,7 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 30px 10%;  
+    background-color: white;
 }
 
 .primary-img{
@@ -100,7 +101,7 @@ header {
 footer{
     color:#4C5454;
     padding: 50px 0;
-    background-color: beige;
+    background-color: #396E94;
     display: flex;
     justify-content: space-around;
     align-items: center;
