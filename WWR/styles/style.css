@@ -109,9 +109,10 @@ body {
 
 header {
     background-color: darkolivegreen;
-    display: grid;
-    grid-template-columns: 150px auto;
-    padding: 1em;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 10%
     
 }
 
