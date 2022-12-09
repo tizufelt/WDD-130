@@ -39,28 +39,28 @@ body {
   background-attachment: fixed;
 }
 .img1 {
-  background-image: url("/personal-page/images/blacktruck.jpeg");
+  background-image: url("https://tizufelt.github.io/WDD-130/personal-page/images/blacktruck.jpeg");
 }
 .img2 {
-  background-image: url("/personal-page/images/lowered_truck.jpeg");
+  background-image: url("https://tizufelt.github.io/WDD-130/personal-page/images/lowered_truck.jpeg");
 }
 .img3 {
-  background-image: url("/personal-page/images/lsswappedtruck.jpeg");
+  background-image: url("https://tizufelt.github.io/WDD-130/personal-page/images/lsswappedtruck.jpeg");
 }
 .img4 {
-  background-image: url("/personal-page/images/redfronttruck.jpeg");
+  background-image: url("https://tizufelt.github.io/WDD-130/personal-page/images/redfronttruck.jpeg");
 }
 .img5 {
-  background-image: url("/personal-page/images/Truck1.jpeg");
+  background-image: url("https://tizufelt.github.io/WDD-130/personal-page/images/Truck1.jpeg");
 }
 .img6 {
-  background-image: url("/personal-page/images/trucktag.jpg");
+  background-image: url("https://tizufelt.github.io/WDD-130/personal-page/images/trucktag.jpg");
 }
 .img7 {
-    background-image: url("/personal-page/images/browntruck.jpg");
+    background-image: url("https://tizufelt.github.io/WDD-130/personal-page/images/browntruck.jpg");
 }
 .img8 {
-    background-image: url("https://tizufelt.github.io/WDD-130/personal-page/images/browntruck.jpg");
+    background-image: url("https://tizufelt.github.io/WDD-130/personal-page/images/barntruck.jpg");
 }
 
 nav {
