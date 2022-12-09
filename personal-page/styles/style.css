@@ -160,14 +160,6 @@ footer a {
   text-decoration: none;
 }
 
-.parallax {
-  background-image: url("interior.jpeg");
-  min-height: 500px;
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
 
 .build-grid {
   display: grid;
